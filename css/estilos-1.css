@@ -1,0 +1,409 @@
+.titulo-1{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+
+.menu-navegacion{
+    background-color: black;
+    text-align: center;
+    letter-spacing: 10;
+}
+
+.menu-navegacion a{
+    color: #ffffff;
+    font-size: 30px;
+    font-family: 'Padauk', sans-serif;
+    text-decoration: none;
+}
+
+.modelo-0{
+    width: 350px;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+    position: absolute;
+    left: 15%;
+    top: 40%;
+}
+
+.marca{
+    width: 700px;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+    position: absolute;
+    left: 45%;
+    top: 120%;
+}
+
+.texto-marca{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 49px;
+    width: 45%;
+    position: absolute;
+    left: 10%;
+    top: 145%
+}
+
+.titulo-2{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    position: absolute;
+    left: 45%;
+    top: 40%;
+}
+
+.texto-0{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 49px;
+    width: 45%;
+    position: absolute;
+    left: 45%;
+    top: 55%;
+}
+
+.titulo-3{
+    font-family: 'Padauk', sans-serif;
+    width: 45%;
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+    background-color: #000000;
+    position: absolute;
+    left: 27%;
+    top: 190%;
+}
+
+.chamarra{
+    width: 400px;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+    position: absolute;
+    left: 5%;
+    top: 220%;
+}
+
+.pantalon{
+    width: 400px;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+    position: absolute;
+    left: 5%;
+    top: 300%;
+}
+
+.camisa{
+    width: 370px;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+    position: absolute;
+    left: 40%;
+    top: 220%;
+}
+
+.pantalon-1{
+    width: 350px;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+    position: absolute;
+    left: 40%;
+    top: 300%;
+}
+
+.chamarra-1{
+    width: 400px;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+    position: absolute;
+    left: 70%;
+    top: 220%;
+}
+
+.pantalon-2{
+    width: 400px;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+    position: absolute;
+    left: 70%;
+    top: 300%;
+}
+
+.titulo-4{
+    font-family: 'Padauk', sans-serif;
+    width: 45%;
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+    background-color: #000000;
+    position: absolute;
+    left: 27%;
+    top: 369%;
+}
+
+.chamarra-2{
+    width: 400px;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+    position: absolute;
+    left: 18%;
+    top: 400%;
+}
+
+.pantalon-3{
+    width: 400px;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+    position: absolute;
+    left: 60%;
+    top: 400%;
+}
+
+.titulo-5{
+    font-family: 'Padauk', sans-serif;
+    width: 45%;
+    text-align: center;
+    font-size: 50px;
+    color: #ffffff;
+    background-color: #000000;
+    position: absolute;
+    left: 27%;
+    top: 466%;
+}
+
+.face{
+    width: 100px;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+    position: absolute;
+    left: 60%;
+    top: 490%; 
+}
+
+.inst{
+    width: 100px;
+    height: auto;
+    display: block;
+    border-radius: 5%;
+    position: absolute;
+    left: 30%;
+    top: 490%; 
+}
+
+.texto-1-2{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 45%;
+    position: absolute;
+    left: 5%;
+    top: 275%;   
+}
+
+.texto-2-1-1{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 40%;
+    position: absolute;
+    left: 6%;
+    top: 355%;   
+}
+
+.texto-6-1{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 10px;
+    width: 40%;
+    position: absolute;
+    left: 39%;
+    top: 277%;   
+}
+
+.texto-3-1{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 10px;
+    width: 40%;
+    position: absolute;
+    left: 69%;
+    top: 277%;   
+}
+
+.texto-5-1{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 35px;
+    width: 40%;
+    position: absolute;
+    left: 48%;
+    top: 355%;  
+}
+
+.texto-4-1{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 40%;
+    position: absolute;
+    left: 70%;
+    top: 355%;
+}
+
+.texto-1{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 45%;
+    position: absolute;
+    left: 14%;
+    top: 283%; 
+}
+
+.texto-2{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 45%;
+    position: absolute;
+    left: 48%;
+    top: 283%; 
+}
+
+.texto-2-2{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 45%;
+    position: absolute;
+    left: 80%;
+    top: 283%; 
+}
+
+.texto-2-5{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 45%;
+    position: absolute;
+    left: 15%;
+    top: 363%; 
+}
+
+.texto-5{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 45%;
+    position: absolute;
+    left: 49%;
+    top: 375%; 
+}
+
+.texto-4{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 45%;
+    position: absolute;
+    left: 80%;
+    top: 363%;  
+}
+
+.texto-3-0-0{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 45%;
+    position: absolute;
+    left: 49%;
+    top: 283%;  
+}
+
+.texto-9-3{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 45%;
+    position: absolute;
+    left: 18%;
+    top: 455%;
+}
+
+.texto-9-4{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 45%;
+    position: absolute;
+    left: 27%;
+    top: 460%;
+}
+
+.texto-8-2{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 45%;
+    position: absolute;
+    left: 60%;
+    top: 455%;
+}
+
+.texto-8-3{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    line-height: 39px;
+    width: 45%;
+    position: absolute;
+    left: 70%;
+    top: 460%;
+}
+
+.link-1{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    color: #000000;
+    line-height: 55px;
+    width: 45%;
+    text-decoration: none;
+    position: absolute;
+    left: 31%;
+    top: 503%;
+}
+
+.link-2{
+    font-family: 'Padauk', sans-serif;
+    text-align: justify;
+    color: #000000;
+    line-height: 55px;
+    width: 45%;
+    text-decoration: none;
+    position: absolute;
+    left: 61%;
+    top: 503%;
+}
+
+.audio{
+    position: absolute;
+    left: 0%;
+    top: 570%;
+}
+
+.video{
+    position: absolute;
+    left: 30%;
+    top: 520%;
+}
